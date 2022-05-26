@@ -1,0 +1,1 @@
+Aplikacja mobilna stworzona przy użyciu technologii Flutter przetestowana tylko na platformie Android.
